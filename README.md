@@ -7,3 +7,5 @@
 - 📫 How to reach me: Discord at @cruxie#0004
 - :no_mouth: Pronouns: Him/He
 - ⚡ Fun fact: i love boostio :innocent:
+
+![xcruxiex's Github Stats](https://github-readme-stats.vercel.app/api?username=xcruxiex&show_icons=true)
