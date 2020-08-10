@@ -16,11 +16,8 @@
 - :no_mouth: Pronouns: Him/He
 - ⚡ Fun fact: i love boostio :innocent:
 
-<div style="vertical-align: middle;">
-
-![xcruxiex's Github Stats](https://github-readme-stats.vercel.app/api?username=xcruxiex&show_icons=true&title_color=788cd1&bg_color=ededed&text_color=121212)
 ![xcruxiex's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcruxiex&show_icons=true&title_color=788cd1&bg_color=ededed&text_color=121212)
 
-</div>
+![xcruxiex's Github Stats](https://github-readme-stats.vercel.app/api?username=xcruxiex&show_icons=true&title_color=788cd1&bg_color=ededed&text_color=121212)
 
 [![xcruxiex made this with love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/xcruxiex/)
