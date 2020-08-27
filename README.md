@@ -2,7 +2,7 @@
 <a href="https://discord.com/invite/Tzm2paq"><img alt="Discord" src="https://img.shields.io/discord/727643522081226752?color=7a8fd3&label=Discord%20Server&style=for-the-badge"></a> 
 <a href="https://github.com/xcruxiex?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/xcruxiex?color=7a8fd3&label=Github%20Followers&style=for-the-badge"></a> 
 <a href="https://steamcommunity.com/profiles/76561198896869640/"><img alt="Website" src="https://img.shields.io/static/v1?label=Steam&message=Add%20me!&color=7a8fd3&style=for-the-badge"></a> 
-<a href="https://xcruxiex.github.io/Personal-Website"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=7a8fd3&up_message=Online&url=https%3A%2F%2Fxcruxiex.github.io%2FPersonal-Website"></a>
+<a href="hhttps://xcruxiex.github.io/Personal-Website/"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=7a8fd3&up_message=Online&url=https%3A%2F%2Fxcruxiex.github.io%2FPersonal-Website%2"></a>
 
 - :wrench: I’m currently working on my website(s), whilst trying to get new/more projects to start.
 - :books: I’m currently learning [HTML](https://html.com/)
