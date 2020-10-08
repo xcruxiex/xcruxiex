@@ -10,7 +10,7 @@
 - 💬 Ask me about Anything :D
 - 📫 How to reach me: Discord at @cruxie#0004
 - :no_mouth: Pronouns: Him/He
-- ⚡ Fun fact: i love boostio :innocent:
+- ⚡ Fun fact: i love moosic :innocent:
 
 ![xcruxiex's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcruxiex&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
