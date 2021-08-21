@@ -1,5 +1,4 @@
 ### Welcome To My Github Profile 👋
-<a href="https://discord.com/invite/Tzm2paq"><img alt="Discord" src="https://img.shields.io/discord/727643522081226752?color=7a8fd3&label=Discord%20Server&style=for-the-badge"></a> 
 <a href="https://github.com/xcruxiex?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/xcruxiex?color=7a8fd3&label=Github%20Followers&style=for-the-badge"></a> 
 <a href="https://steamcommunity.com/profiles/76561198896869640/"><img alt="Website" src="https://img.shields.io/static/v1?label=Steam&message=Add%20me!&color=7a8fd3&style=for-the-badge"></a>
 
