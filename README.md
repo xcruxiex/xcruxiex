@@ -1,13 +1,9 @@
 ### Welcome To My Github Profile 👋
-<a href="https://github.com/xcruxiex?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/xcruxiex?color=7a8fd3&label=Github%20Followers&style=for-the-badge"></a> 
-<a href="https://steamcommunity.com/profiles/76561198896869640/"><img alt="Website" src="https://img.shields.io/static/v1?label=Steam&message=Add%20me!&color=7a8fd3&style=for-the-badge"></a>
 
-
-- :wrench: I’m currently working on my website(s), whilst trying to get new/more projects to start.
+- :wrench: I’m currently working in retail.
 - :books: I’m currently learning [HTML](https://html.com/)
-- :walking: I’m currently collaborating on [Spectra's Themes](https://github.com/codedotspectra/themes)
 - 💬 Ask me about Anything :D
-- 📫 How to reach me: Discord at @cruxie#0004
+- 📫 How to reach me: Discord at @cruxie#7438
 - :no_mouth: Pronouns: Him/He
 - ⚡ Fun fact: i love moosic :innocent:
 
